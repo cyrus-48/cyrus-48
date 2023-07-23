@@ -2,6 +2,7 @@
 <h3 align="center"> Tech Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrus-48&label=Profile%20views&color=0e75b6&style=flat" alt="cyrus-48" /> </p>
+[![wakatime](https://wakatime.com/badge/user/6ec71ff8-5787-4068-8e3d-fb71b0cdc82d.svg)](https://wakatime.com/@6ec71ff8-5787-4068-8e3d-fb71b0cdc82d)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrus-48" alt="cyrus-48" /></a> </p>
 
