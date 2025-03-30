@@ -1,41 +1,116 @@
-<h1 align="center">Hi 👋, I'm cyrus mwendwa</h1>
-<h3 align="center"> Tech Enthusiast </h3>
+### Hi there, I'm Cyrus Mwendwa! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrus-48&label=Profile%20views&color=0e75b6&style=flat" alt="cyrus-48" /> </p> 
-<a href="https://wakatime.com/@6ec71ff8-5787-4068-8e3d-fb71b0cdc82d"><img src="https://wakatime.com/badge/user/6ec71ff8-5787-4068-8e3d-fb71b0cdc82d.svg" alt="Total time coded since Jan 10 2023" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyrus-48&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://wakatime.com/@6ec71ff8-5787-4068-8e3d-fb71b0cdc82d">
+    <img src="https://wakatime.com/badge/user/6ec71ff8-5787-4068-8e3d-fb71b0cdc82d.svg" alt="Total Coding Time" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrus-48" alt="cyrus-48" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/cyrus_bill_ke" target="blank"><img src="https://img.shields.io/twitter/follow/cyrus_bill_ke?logo=twitter&style=for-the-badge" alt="cyrus_bill_ke" /></a> </p>
+## 🚀 About Me
 
+- 🔭 I’m currently working on **FoodAI** - just some crazy project about analyzing food nutrients based on images using llm
+- 🌱 I’m currently learning **Advanced Javascript**
+- 👯 I’m looking to collaborate on **DJango and FastAPI projects**
+- 💬 Ask me about **Python , php , Django FastAPI**
+- 📫 How to reach me: **cyrusmwendwa370@gmail.com** 
 
+---
 
-<h3 align="left">Connect with me:</h3>
+## 📱 Connect With Me
 <p align="left">
-<a href="https://codepen.io/cyrus-48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cyrus-48" height="30" width="40" /></a>
-<a href="https://twitter.com/cyrus_bill_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyrus_bill_ke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cyrus-mwendwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyrus-mwendwa" height="30" width="40" /></a>
-<a href="https://fb.com/cyrus-mwendwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyrus-mwendwa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cyrus-48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyrus-48" height="30" width="40" /></a>
+  <a href="https://codepen.io/cyrus-48" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/cyrus_bill_ke" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/cyrus-mwendwa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/cyrus-mwendwa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/cyrus-48" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>   
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
- </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://azure.microsoft.com/en-in/">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
+  </a>
+  <a href="https://dart.dev">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrus-48&show_icons=true&locale=en&layout=compact" alt="cyrus-48" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrus-48&show_icons=true&locale=en" alt="cyrus-48" /></p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrus-48&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyrus-48&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrus-48&" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrus-48&" alt="cyrus-48" /></p>
+---
+
+### 🎯 Profile Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cyrus-48" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 💡 Quote of the Day
+> Its sane to live madly in a deranged world
+
+---
+
+### 🎮 Fun Activities
+- Coding Challenges on **[LeetCode](https://www.leetcode.com/cyrus-48)**
+- Exploring Open-Source Contributions
+- Building Side Projects
+
+---
+
+### 🚀 Let's Collaborate!
+If you're interested in collaborating on open-source projects, feel free to reach out!
+
+---
