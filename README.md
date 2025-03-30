@@ -99,7 +99,7 @@
 ---
 
 ### 💡 Quote of the Day
-> Its sane to live madly in a deranged world
+> **Its sane to live madly in a deranged world**
 
 ---
 
