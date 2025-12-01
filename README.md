@@ -6,7 +6,7 @@
   
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Laravel+%26+PHP+Expert;Django+%26+Python+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Laravel+%26+PHP;Django+%26+Python;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 
   <p>
@@ -94,7 +94,7 @@ Interested_In:
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+ 
 </p>
 
 ### Databases
@@ -186,7 +186,7 @@ Interested_In:
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-  > **"It's sane to live madly in a deranged world"** - Cyrus
+  > **"It's sane to live madly in a deranged world"** 
   
 </div>
 
