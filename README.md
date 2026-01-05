@@ -69,7 +69,7 @@ Interested_In:
 
 ---
 
-## Tech Arsenal
+## Tools
 
 ### Backend Development
 <p align="left">
