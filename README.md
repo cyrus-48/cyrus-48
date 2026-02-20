@@ -13,23 +13,13 @@ Currently exploring advanced system design patterns and building production-read
 
 ## Tech Stack
 
-**Backend** — PHP, Laravel, Symfony, Python, Django, FastAPI  
+**Backend** — PHP, Laravel, Python, Django, FastAPI  
 **Frontend** — Vue.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap  
 **Mobile** — Flutter, Dart  
 **Databases** — PostgreSQL, MySQL, Redis, SQLite  
-**DevOps** — Docker, Linux, Nginx, Azure, Git  
-**AI / ML** — TensorFlow, Scikit-learn, OpenAI API  
+**DevOps** — Docker, Linux, Nginx, Azure, Git   
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyrus-48&show_icons=true&theme=default&hide_border=true&title_color=24292f&icon_color=0969da&text_color=24292f" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrus-48&layout=compact&theme=default&hide_border=true&title_color=24292f&text_color=24292f" alt="Top Languages" />
-</div>
-
----
+--- 
 
 ## Current Focus
 
@@ -40,4 +30,4 @@ Currently exploring advanced system design patterns and building production-read
 
 ---
 
-*Open to collaboration on Django, FastAPI, and AI/ML projects.*
+*Open to collaboration on Django, FastAPI, php, laravel , dart, flutter.*
