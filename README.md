@@ -14,8 +14,7 @@ Currently exploring advanced system design patterns and building production-read
 ## Tech Stack
 
 **Backend** — PHP, Laravel, Python, Django, FastAPI  
-**Frontend** — Vue.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap  
-**Mobile** — Flutter, Dart  
+**Frontend** — Vue.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap   
 **Databases** — PostgreSQL, MySQL, Redis, SQLite  
 **DevOps** — Docker, Linux, Nginx, Azure, Git   
 
@@ -30,4 +29,4 @@ Currently exploring advanced system design patterns and building production-read
 
 ---
 
-*Open to collaboration on Django, FastAPI, php, laravel , dart, flutter.*
+*Open to collaboration on Django, FastAPI, php, laravel *
